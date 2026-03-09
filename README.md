@@ -26,7 +26,7 @@ Me considero una persona curiosa, autodidacta en muchas facetas y siempre dispue
 
 **Un poco más sobre mi perfil actual:**
 
-- 🌍 Resido en **[Tu Ciudad/País]**, buscando oportunidades para crecer profesionalmente.
+- 🌍 Resido en ..., buscando oportunidades para crecer profesionalmente.
 - 🎓 Actualmente enfocado en construir una base sólida en programación y desarrollo de software.
 - 💡 Mis intereses principales convergen en la **Programación general**, el **Desarrollo de Aplicaciones** (creando productos que los usuarios puedan disfrutar) y el enorme potencial de la **Inteligencia Artificial (IA)**.
 - 🎯 Mi objetivo actual es participar en proyectos open-source, colaborar con otros desarrolladores y construir un portafolio de proyectos de los que me sienta orgulloso.
