@@ -1,10 +1,10 @@
 <div align="center">
   <h1 align="center">¡Hola! Soy Rafael / Rafiky40 👋</h1>
-  <h3 align="center">Desarrollador Junior apasionado por la tecnología</h3>
+  <h3 align="center">Desarrollador apasionado por la Programación, las Apps y la IA</h3>
   
   <p align="center">
     <a href="https://github.com/Rafiky40">
-      <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=22&center=true&vCenter=true&width=500&height=50&duration=4000&lines=Siempre+aprendiendo;Construyendo+el+futuro;Enfocado+en+crear+soluciones&color=38B2AC" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=22&center=true&vCenter=true&width=550&height=50&duration=4000&lines=Apasionado+por+la+programación;Desarrollo+de+Aplicaciones;Explorando+la+Inteligencia+Artificial&color=38B2AC" alt="Typing SVG" />
     </a>
   </p>
   
@@ -18,12 +18,12 @@
 
 ### 👨‍💻 Sobre mí
 
-Me considero una persona proactiva y curiosa, dando mis primeros pasos firmes en el mundo del desarrollo de software. Disfruto enfrentándome a nuevos retos técnicos y aprendiendo herramientas que me permitan construir proyectos estéticos, limpios y completamente funcionales.
+Me considero una persona proactiva y muy curiosa, dando mis primeros pasos firmes en el mundo del **desarrollo de software**. Me apasiona crear tecnología y estoy profundamente interesado en la intersección entre la innovación y el código.
 
 - 🌍 Resido en **[Tu Ciudad/País]**
 - 🎓 Actualmente enfocado en mejorar constantemente mis habilidades de programación.
-- 💡 Principalmente interesado en el **Desarrollo Web** y la creación de interfaces de usuario intuitivas.
-- 🤝 Siempre abierto a colaborar en proyectos, escuchar consejos y seguir absorbiendo conocimiento.
+- 💡 Mis intereses principales son la **Programación**, el **Desarrollo de Aplicaciones** y la **Inteligencia Artificial (IA)**.
+- 🤝 Siempre abierto a colaborar en proyectos, escuchar consejos y seguir absorbiendo conocimiento en este apasionante sector.
 
 <br/>
 
@@ -42,13 +42,19 @@ Me considero una persona proactiva y curiosa, dando mis primeros pasos firmes en
 ### 📈 Estadísticas de GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rafiky40&show_icons=true&theme=radical&hide_border=true" alt="Estadísticas Generales" />
+  <a href="https://github.com/Rafiky40">
+    <img src="https://github-readme-stats.vercel.app/api?username=Rafiky40&show_icons=true&theme=radical&hide_border=true" alt="Estadísticas Generales" />
+  </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafiky40&layout=compact&theme=radical&hide_border=true" alt="Lenguajes más usados" />
+  <a href="https://github.com/Rafiky40">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafiky40&layout=compact&theme=radical&hide_border=true" alt="Lenguajes más usados" />
+  </a>
 </div>
 <br/>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rafiky40&theme=radical&hide_border=true" alt="Racha diaria en GitHub" />
+  <a href="https://github.com/Rafiky40">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rafiky40&theme=radical&hide_border=true" alt="Racha diaria en GitHub" />
+  </a>
 </div>
 
 ---
