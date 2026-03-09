@@ -3,9 +3,8 @@
   <h3 align="center">Desarrollador Junior apasionado por la Programación, las Apps y la IA</h3>
   
   <p align="center">
-    <!-- Cambiada la animación SVG para que sea solo una imagen estática simple en caso de que siga fallando -->
     <a href="https://github.com/Rafiky40">
-      <img src="https://capsule-render.vercel.app/api?type=transparent&color=38B2AC&height=100&section=header&text=Junior%20Developer%20|%20Tech%20Enthusiast&fontSize=35&fontAlignY=50" alt="Banner" />
+      <img src="https://readme-typing-svg.demolab.com/?font=Righteous&size=22&center=true&vCenter=true&width=550&height=50&duration=4000&lines=Apasionado+por+la+programacion;Desarrollo+de+Aplicaciones;Explorando+la+Inteligencia+Artificial&color=38B2AC" alt="Typing SVG" />
     </a>
   </p>
   
@@ -59,16 +58,14 @@ Como Junior, mi enfoque actual está en dominar las herramientas fundamentales y
 
 ### 📈 Mis Estadísticas de GitHub
 
-> [!NOTA]  
-> Al estar empezando, mis estadísticas aún están calentando motores. ¡Espero ver crecer estos números en los próximos meses a base de constancia y código!
+> 💡 **Nota:** Al estar empezando, mis estadísticas aún están calentando motores. ¡Espero ver crecer estos números en los próximos meses a base de constancia y código!
 
 <div align="center">
-  <!-- He quitado el enlace <a href> que envolvía la imagen de Vercel porque estaba rompiendo el renderizado en GitHub -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Rafiky40&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Estadísticas Generales de Rafiky40" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Rafiky40&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Estadísticas Generales de Rafiky40" />
   
   <br/><br/>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafiky40&layout=compact&theme=radical&hide_border=true" alt="Lenguajes más usados por Rafiky40" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Rafiky40&layout=compact&theme=radical&hide_border=true" alt="Lenguajes más usados por Rafiky40" />
 </div>
 <br/>
 <div align="center">
