@@ -65,7 +65,7 @@ Como Junior, mi enfoque actual está en dominar las herramientas fundamentales y
   
   <br/><br/>
   
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Rafiky40&layout=compact&theme=radical&hide_border=true" alt="Lenguajes más usados por Rafiky40" />
+
 </div>
 <br/>
 <div align="center">
