@@ -59,7 +59,7 @@ Como Junior, mi enfoque actual está en dominar las herramientas fundamentales y
 
 ### 📈 Mis Estadísticas de GitHub
 
-> [!NOTE]  
+> [!NOTA]  
 > Al estar empezando, mis estadísticas aún están calentando motores. ¡Espero ver crecer estos números en los próximos meses a base de constancia y código!
 
 <div align="center">
